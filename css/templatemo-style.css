@@ -170,14 +170,14 @@ html{
 }
 
 a {
-  color: #E3AE57;
+  color: #F27405;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
   text-decoration: none !important;
 }
 a:hover, a:active, a:focus {
-  color: #E3AE57;
+  color: #F27405;
   outline: none;
 }
 
@@ -298,7 +298,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-    background: #E3AE57;
+    background: #F27405;
     border-color: transparent;
 }
 
@@ -506,13 +506,6 @@ a:hover, a:active, a:focus {
 #offering .media-heading {
   margin-bottom: 0px;
 }
-
-
-#offering small {
-  color: #886D1E;
-  font-weight: bold;
-}
-
 
 /*---------------------------------------
     Contact section              
